@@ -1,0 +1,29 @@
+I used PBI to analyze the data as that was the only tool I could get to work on my ancient computer 
+
+ 
+
+Larger scale view -  First tab in the PBI (top graph) shows sales by month for 2025.  I removed Nov as it was not a complete month.  You can see up ticks in Match and July and I assume that is because both buyers and sellers want to list and sell/buy to coincide with the school year ending/starting. 
+
+The bottom chart in first tab is by month and shows the sales amount—each color represents a market.  You can see that Detroit in March 2025 was by far the highest. If I had more time I would dig in to see why. 
+
+ 
+
+5 best markets – The 5 best markets by sales amount for 2025 are 
+
+Detroit, Seattle, Grand Rapids, Jacksonville, Miami 
+
+Detroit was the best market by sales but had lowest # customers and lowest price closed median 
+
+ 
+
+Best agents per market – I was not able to limit the chart to the best agent per market but the chart shows the market, total closes and agents name 
+
+ 
+
+Growth – used a scatterplot to chart market, population and total closes—seems Columbus OH and San Diego had roughly same number of customers but San Diego had 2.5X more closes.  Maybe San Diego has better leads, maybe they follow up better with customers or negotiate better. 
+
+ 
+
+If I had 2 weeks to I would make sure I had enough memory so that all my tools worked and I would do more digging and research into the Why. 
+
+ 
